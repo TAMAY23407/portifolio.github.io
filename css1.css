@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    height: 30px;
+    word-spacing:10ch;
+    text-align: center;
+}
+.dev1{
+    background-color: rgb(190, 91, 157);
+    height: 900px;
+    text-align: center;
+   
+    
+}
